@@ -7,7 +7,8 @@ Pathfinder creates a personalized roadmap for your educational needs and curates
 
 ## Demo
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/Luckygyana/PathFinder/blob/main/images/media.io_uaVMr7aY.gif)https://github.com/Luckygyana/PathFinder/blob/main/images/media.io_uaVMr7aY.gif)
+![media io_uaVMr7aY (1)](https://github.com/Luckygyana/PathFinder/assets/54680536/be7a97b4-12b8-415f-a0b7-becb9f10e7e9)
+
 
 
 
