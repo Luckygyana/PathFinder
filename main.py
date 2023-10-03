@@ -106,8 +106,8 @@ def create_resources_pdf(resource_data, descriptions, topic):
         story.append(Paragraph(descriptions[key], styles["Normal"]))
 
         # Add URLs with hyperlinks
-        for data in range(len(resource_data[key])):
-            link = "<a href='%s' color='blue'><u>%s</u></a>" % (data['link'], data['title'])
+        for data in resource_data[key]:
+            link = "<a href='%s' color='blue'><u>%s</u></a>" % (data['url'], data['title'])
             story.append(Paragraph(link, styles["Normal"]))
 
         story.append(PageBreak())
