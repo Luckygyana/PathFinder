@@ -1,0 +1,6 @@
+metaphor_python
+openai
+matplotlib
+networkx
+pydot
+reportlab
